@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.xingcaijiaoyu.cn/sitemap.xml
